@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is ent3r! I am a student in Norway, and I'm part of a CTF team called [Team Corax](https://ctftime.org/team/113107). We are the 3rd best team in Norway!
+My name is ent3r! I am a student in Norway, and I'm part of a CTF team called [Team Corax](https://corax.team). We are the 3rd best team in Norway!
 
 I also do a lot of programming in my free time. I mostly program in node.js, HTML+CSS, JavaScript, and python.
 
