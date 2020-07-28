@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ent3r.ent3r)
+![Visitor count badge](https://komarev.com/ghpvc/?username=ent3r)
 
 My name is ent3r! I am a student in Norway, and I'm part of a CTF team called [Team Corax](https://corax.team). We are the 3rd best team in Norway!
 
