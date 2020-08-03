@@ -19,6 +19,15 @@ I also do a lot of programming in my free time. I mostly program in node.js, HTM
 - 🌱 I’m currently learning Vue.js to make the page mentioned above
 - 🤔 I’m looking for help with making the "Keep me logged in" system mentioned above
 
+
+![ent3r's github stats](https://github-readme-stats.vercel.app/api?username=ent3r&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ent3r&hide=roff&layout=compact)
+
+----
+
+*These cool images were added using [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats). You should check it out!*
+
 <!--
 **ent3r/ent3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
