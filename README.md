@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Visitor count badge](https://komarev.com/ghpvc/?username=ent3r)
+![Visitor count badge](https://komarev.com/ghpvc/?username=ent3r) ![Followers badge](https://img.shields.io/github/followers/ent3r?label=Follow%20me&style=flat)
 
 My name is ent3r! I am a student in Norway, and I'm part of a CTF team called [Team Corax](https://corax.team). We are the 3rd best team in Norway!
 
