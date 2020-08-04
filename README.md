@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Visitor count badge](https://komarev.com/ghpvc/?username=ent3r) ![Followers badge](https://img.shields.io/github/followers/ent3r?label=Follow%20me&style=flat)
+![Visitor count badge](https://komarev.com/ghpvc/?username=ent3r) ![Followers badge](https://img.shields.io/github/followers/ent3r?label=Followers&style=flat)
 
 My name is ent3r! I am a student in Norway, and I'm part of a CTF team called [Team Corax](https://corax.team). We are the 3rd best team in Norway!
 
@@ -26,7 +26,11 @@ I also do a lot of programming in my free time. I mostly program in node.js, HTM
 
 ----
 
-*These cool images were added using [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats). You should check it out!*
+*Profile visit badge was added using [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter).*
+
+*Followers badge was added using [shields.io](https://shields.io)*
+
+*Bottom two images were added using [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
 
 <!--
 **ent3r/ent3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
