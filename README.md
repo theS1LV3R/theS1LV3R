@@ -29,7 +29,7 @@ I have also made a couple websites using [Jekyll](https://jekyllrb.com/)
 - 🤔 I’m looking for help with making the MongoDB storage system to store passwords safely. Good luck contacting me though, I don't really have anywhere yet
 
 
-![ent3r's github stats](https://github-readme-stats.vercel.app/api?username=ent3r&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)
+![ent3r's github stats](https://github-readme-stats.vercel.app/api?username=ent3r&count_private=true&include_all_commits=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ent3r&hide=roff&layout=compact)
 
