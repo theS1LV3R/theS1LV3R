@@ -4,7 +4,9 @@
 
 My name is ent3r! I am a student in Norway, and I'm part of a CTF team called [Team Corax](https://corax.team). We are the 3rd best team in Norway!
 
-I also do a lot of programming in my free time. I mostly program in node.js, HTML+CSS, JavaScript, and python.
+I also do a lot of programming in my free time. I mostly program in node.js, HTML+CSS, JavaScript, and python. I also use frameworks every now and then. Mainly Vue.js.
+
+I have also made a couple websites using [Jekyll](https://jekyllrb.com/)
 
 ### A couple cool things I've created:
 
@@ -15,9 +17,16 @@ I also do a lot of programming in my free time. I mostly program in node.js, HTM
 
 ### Projects im working on and stuff (idk):
 
-- 🔭 I’m currently working on an extensive project to make a login and auth page using OAuth2, email+password login, MongoDB for storage, "Keep me logged in" system, and a website made with Vue.js
-- 🌱 I’m currently learning Vue.js to make the page mentioned above
-- 🤔 I’m looking for help with making the "Keep me logged in" system mentioned above
+- 🔭 I’m currently working on an extensive project to make a login and auth page using:
+  - OAuth2 and email+password authentication
+  - MongoDB for storage
+  - "Keep me logged in" system using JSON web tokens
+  - Website made with Vue.js
+  - Node.js and express for the backend
+
+- 🌱 I’m currently (trying to) learn Vue.js to make the page mentioned above.
+
+- 🤔 I’m looking for help with making the MongoDB storage system to store passwords safely. Good luck contacting me though, I don't really have anywhere yet
 
 
 ![ent3r's github stats](https://github-readme-stats.vercel.app/api?username=ent3r&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)
@@ -42,6 +51,6 @@ What's this? You are actually interested enough to go to the source of this read
 - 💬 Ask me about ...
 - 📫 How to reach me: Make an issue in this repo
 - 😄 Pronouns: They/them or she/her
-- ⚡ Fun fact: I am a lesbian demigirl!
+- ⚡ Fun fact: I am a bisexual demigirl!
 
 -->
