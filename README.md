@@ -1,8 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="http://gravatar.com/avatar/708126e718f81d89e6daffba2b153c72.png?size=512&d=retro" align="center" width="128px" />
+</p>
+
+<h1 align="center">ent3r</h1>
 
 ![Visitor count badge](https://komarev.com/ghpvc/?username=ent3r) ![Followers badge](https://img.shields.io/github/followers/ent3r?label=Followers&style=flat)
 
-My name is ent3r! I am a student in Norway, and I'm part of a CTF team called [Team Corax](https://corax.team). We are the 3rd best team in Norway!
+Hey! My name is ent3r! I am a student in Norway, and I'm part of a CTF team called [Team Corax](https://corax.team). We are the 3rd best team in Norway!
 
 I also do a lot of programming in my free time. I mostly program in node.js, HTML+CSS, JavaScript, and python. I also use frameworks every now and then. Mainly Vue.js.
 
