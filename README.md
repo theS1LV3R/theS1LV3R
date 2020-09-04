@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="http://gravatar.com/avatar/708126e718f81d89e6daffba2b153c72.png?size=512&d=retro" align="center" width="128px" />
+  <img src="https://gravatar.com/avatar/708126e718f81d89e6daffba2b153c72.png?size=256&d=retro" align="center"/>
+  <h1 align="center">ent3r</h1>
+  <p align="center">
+    <img alt="Visitor count badge" src="https://komarev.com/ghpvc/?username=ent3r" align="center"/>
+    <img alt="Followers badge" src="https://img.shields.io/github/followers/ent3r?label=Followers&style=flat" align="center"/>
+  </p>
 </p>
-
-<h1 align="center">ent3r</h1>
-
-![Visitor count badge](https://komarev.com/ghpvc/?username=ent3r) ![Followers badge](https://img.shields.io/github/followers/ent3r?label=Followers&style=flat)
 
 Hey! My name is ent3r! I am a student in Norway, and I'm part of a CTF team called [Team Corax](https://corax.team). We are the 3rd best team in Norway!
 
