@@ -4,7 +4,7 @@
   <p align="center">
     <img alt="Visitor count badge" src="https://komarev.com/ghpvc/?username=ent3r" align="center"/>
     <img alt="Followers badge" src="https://img.shields.io/github/followers/ent3r?label=Followers&style=flat" align="center"/>
-    <img alt="Contact me on Twitter!" src="https://img.shields.io/badge/Contact%20me%20on%20twitter!-ent3r__-%231da1f2" align="center">
+    <a href="https://twitter.com/ent3r_" align="center"><img alt="Contact me on Twitter!" src="https://img.shields.io/badge/Contact%20me%20on%20twitter!-ent3r__-%231da1f2" align="center"></a>
   </p>
 </p>
 
