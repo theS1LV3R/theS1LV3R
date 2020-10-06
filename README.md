@@ -4,6 +4,7 @@
   <p align="center">
     <img alt="Visitor count badge" src="https://komarev.com/ghpvc/?username=ent3r" align="center"/>
     <img alt="Followers badge" src="https://img.shields.io/github/followers/ent3r?label=Followers&style=flat" align="center"/>
+    <img alt="Contact me on Twitter!" src="https://img.shields.io/badge/Contact%20me%20on%20twitter!-ent3r__-%231da1f2" align="center">
   </p>
 </p>
 
@@ -22,17 +23,11 @@ I have also made a couple websites using [Jekyll](https://jekyllrb.com/)
 
 ### Projects im working on and stuff (idk):
 
-- 🔭 I’m currently working on an extensive project to make a login and auth page using:
-  - OAuth2 and email+password authentication
-  - MongoDB for storage
-  - "Keep me logged in" system using JSON web tokens
-  - Website made with Vue.js
-  - Node.js and express for the backend
+- 🔭 I’m currently working on a small project for publishing text snippets, almost like twitter, except with the ability to EDIT SNIPPETS!
+  The backend repo is https://github.com/ent3r/mevn-stack-server, the frontend repo will be https://github.com/ent3r/mevn-stack-client when i actually remember to create it.
+ 
 
 - 🌱 I’m currently (trying to) learn Vue.js to make the page mentioned above.
-
-- 🤔 I’m looking for help with making the MongoDB storage system to store passwords safely. Good luck contacting me though, I don't really have anywhere yet
-
 
 ![ent3r's github stats](https://github-readme-stats.vercel.app/api?username=ent3r&count_private=true&include_all_commits=true&show_icons=true)
 
