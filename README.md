@@ -1,7 +1,3 @@
-```diff
--⚠️ I'm currently changing my username to S1LV3R on all platforms, some sites may be outdated. GitHub is the last place I'll update ⚠️
-```
-
 <p align="center">
   <img src="https://gravatar.com/avatar/708126e718f81d89e6daffba2b153c72.png?size=256&d=retro" align="center"/>
   <h1 align="center">S1LV3R</h1>
