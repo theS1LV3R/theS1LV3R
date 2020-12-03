@@ -2,8 +2,8 @@
   <img src="https://gravatar.com/avatar/708126e718f81d89e6daffba2b153c72.png?size=256&d=retro" align="center"/>
   <h1 align="center">S1LV3R</h1>
   <p align="center">
-    <img alt="Visitor count badge" src="https://komarev.com/ghpvc/?username=ent3r" align="center"/>
-    <img alt="Followers badge" src="https://img.shields.io/github/followers/ent3r?label=Followers&style=flat" align="center"/>
+    <img alt="Visitor count badge" src="https://komarev.com/ghpvc/?username=theS1LV3R" align="center"/>
+    <img alt="Followers badge" src="https://img.shields.io/github/followers/theS1LV3R?label=Followers&style=flat" align="center"/>
     <a href="https://twitter.com/s1lv3r__" align="center"><img alt="Contact me on Twitter!" src="https://img.shields.io/badge/Contact%20me%20on%20twitter!-s1lv3r___-%231da1f2" align="center"></a>
   </p>
 </p>
