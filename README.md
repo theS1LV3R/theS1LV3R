@@ -10,9 +10,9 @@
 
 Hey! My name is S1LV3R! I am a student in Norway, and I'm part of a CTF team called [Team Corax](https://corax.team). We are the 3rd best team in Norway!
 
-I also do a lot of programming in my free time. I mostly program in node.js, HTML+CSS, JavaScript, and python. I also use frameworks every now and then. Mainly Vue.js.
+I also do a lot of programming in my free time. I mostly program in node.js, HTML+CSS, JavaScript/TypeScript, and Python. I also use frameworks every now and then, primarily Vue.js.
 
-I have also made a couple websites using [Jekyll](https://jekyllrb.com/)
+I have also made a couple websites using [Jekyll](https://jekyllrb.com/).
 
 ### A couple cool things I've created:
 
@@ -23,11 +23,7 @@ I have also made a couple websites using [Jekyll](https://jekyllrb.com/)
 
 ### Projects im working on and stuff (idk):
 
-- 🔭 I’m currently working on a small project for publishing text snippets, almost like twitter, except with the ability to EDIT SNIPPETS!
-  The backend repo is https://github.com/theS1LV3R/mevn-stack-server, the frontend repo will be https://github.com/theS1LV3R/mevn-stack-client when i actually remember to create it.
- 
-
-- 🌱 I’m currently (trying to) learn Vue.js to make the page mentioned above.
+- 🔭 I’m currently working on [CTFNote](https://github.com/CTFNote), a platform for taking notes for CTF's. The backend is made in express.js, and the frontend is made in Vue.js
 
 ![theS1LV3R's github stats](https://github-readme-stats.vercel.app/api?username=theS1LV3R&count_private=true&include_all_commits=true&show_icons=true)
 
