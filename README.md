@@ -46,7 +46,7 @@ What's this? You are actually interested enough to go to the source of this read
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: Make an issue in this repo
-- 😄 Pronouns: They/them or she/her
-- ⚡ Fun fact: I am a bisexual demigirl!
+- 😄 Pronouns: I use any pronoun!
+- ⚡ Fun fact: I am bisexual and nonbinary!
 
 -->
