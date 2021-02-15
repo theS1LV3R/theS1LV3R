@@ -24,17 +24,9 @@ I have also made a couple websites using [Jekyll](https://jekyllrb.com/).
 
 - 🔭 I’m currently working on [CTFNote](https://github.com/CTFNote), a platform for taking notes for CTF's. The backend is made in express.js, and the frontend is made in Vue.js
 
-![theS1LV3R's github stats](https://github-readme-stats.vercel.app/api?username=theS1LV3R&count_private=true&include_all_commits=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theS1LV3R&hide=roff&layout=compact)
-
 ----
 
-*Profile visit badge was added using [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter).*
-
 *Followers badge was added using [shields.io](https://shields.io)*
-
-*Bottom two images were added using [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
 
 <!--
 **theS1LV3R/theS1LV3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,7 +37,7 @@ What's this? You are actually interested enough to go to the source of this read
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: Make an issue in this repo
-- 😄 Pronouns: I use any pronoun!
+- 😄 Pronouns: I use any pronouns!
 - ⚡ Fun fact: I am bisexual and nonbinary!
 
 -->
