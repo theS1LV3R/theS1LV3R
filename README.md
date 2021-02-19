@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gravatar.com/avatar/708126e718f81d89e6daffba2b153c72.png?size=256&d=retro" align="center"/>
+<!--   <img src="https://gravatar.com/avatar/708126e718f81d89e6daffba2b153c72.png?size=256&d=retro" align="center"/> -->
   <h1 align="center">S1LV3R</h1>
   <p align="center">
     <img alt="Followers badge" src="https://img.shields.io/github/followers/theS1LV3R?label=Followers&style=flat" align="center"/>
@@ -24,20 +24,19 @@ I have also made a couple websites using [Jekyll](https://jekyllrb.com/).
 
 - 🔭 I’m currently working on [CTFNote](https://github.com/CTFNote), a platform for taking notes for CTF's. The backend is made in express.js, and the frontend is made in Vue.js
 
-----
 
-*Followers badge was added using [shields.io](https://shields.io)*
+<! -- **theS1LV3R/theS1LV3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!--
-**theS1LV3R/theS1LV3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-What's this? You are actually interested enough to go to the source of this readme? Well then you get a small bit of extra info
+*if you know me IRL... no you don't*
 
-
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Make an issue in this repo
+- 👯 I’m looking to collaborate on: CTFNote! Could be fun to work on.
+- 💬 Ask me about: Vue and Node stuff.
+- 📫 How to reach me: Make an issue in this repo or contact me on discord (see my [website](https://s1lv3r.codes))
 - 😄 Pronouns: I use any pronouns!
 - ⚡ Fun fact: I am bisexual and nonbinary!
 
--->
+----
+
+*Followers badge was added using [shields.io](https://shields.io)*
