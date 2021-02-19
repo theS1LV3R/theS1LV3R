@@ -25,7 +25,7 @@ I have also made a couple websites using [Jekyll](https://jekyllrb.com/).
 - 🔭 I’m currently working on [CTFNote](https://github.com/CTFNote), a platform for taking notes for CTF's. The backend is made in express.js, and the frontend is made in Vue.js
 
 
-<! -- **theS1LV3R/theS1LV3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **theS1LV3R/theS1LV3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ---
 
