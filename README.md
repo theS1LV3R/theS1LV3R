@@ -17,8 +17,8 @@ I have also made a couple websites using [Jekyll](https://jekyllrb.com/).
 
 - A repo with different python templates (flask, logging, tkinter, etc): [theS1LV3R/Python-templates](https://github.com/theS1LV3R/Python-templates)
 - A "framework" for a discord bot made in node.js using discord.js: [theS1LV3R/JADB](https://github.com/theS1LV3R/JADB)
-- A theme switcher made in HTML, CSS, and JS: [theS1LV3R-s-projects/theme-switcher](https://github.com/theS1LV3R-s-projects/theme-switcher)
-- A discord RFC bot made in node.js that automatically responds with an RFC spec. if it detects it in a message: [theS1LV3R-s-projects/discord-rfc-bot](https://github.com/theS1LV3R-s-projects/discord-rfc-bot)
+- A theme switcher made in HTML, CSS, and JS: [theS1LV3R/theme-switcher](https://github.com/theS1LV3R/theme-switcher)
+- A discord RFC bot made in node.js that automatically responds with an RFC spec. if it detects it in a message: [theS1LV3R/discord-rfc-bot](https://github.com/theS1LV3R/discord-rfc-bot)
 
 ### Projects im working on and stuff (idk):
 
