@@ -3,7 +3,7 @@
   <h1 align="center">S1LV3R</h1>
   <p align="center">
     <img alt="Followers badge" src="https://img.shields.io/github/followers/theS1LV3R?label=Followers&style=flat" align="center"/>
-    <a href="https://twitter.com/s1lv3r__" align="center"><img alt="Contact me on Twitter!" src="https://img.shields.io/badge/Contact%20me%20on%20twitter!-s1lv3r___-%231da1f2" align="center"></a>
+    <a href="https://twitter.com/theS1LV3R" align="center"><img alt="Contact me on Twitter!" src="https://img.shields.io/twitter/follow/theS1LV3R?color=55acee&logo=twitter&style=plastic" align="center"></a>
   </p>
 </p>
 
