@@ -11,6 +11,6 @@
   <br />
 
   <a align="center" href="https://pronouns.page/@s1lv3r" rel="me">
-  :rainbow_flag: https://pronouns.page/@s1lv3r
+  :rainbow_flag: https://s.if11.xyz/pronouns
   </a>
 </p>
